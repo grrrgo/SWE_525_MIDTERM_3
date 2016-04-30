@@ -1,0 +1,7 @@
+*   resolve conflict
+|\  
+| * greet peter in Spanish
+* | greet peter
+|/  
+* add peter
+* init commit
